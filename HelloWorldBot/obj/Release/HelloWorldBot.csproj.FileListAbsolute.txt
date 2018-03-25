@@ -1,0 +1,39 @@
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Bot Application1.dll.config
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Bot Application1.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Bot Application1.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Autofac.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Chronic.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Newtonsoft.Json.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Autofac.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Newtonsoft.Json.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\obj\Release\Bot Application1.dll
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\obj\Release\Bot Application1.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\HelloWorldBot\HelloWorldBot\obj\Release\HelloWorldBot.csprojResolveAssemblyReference.cache

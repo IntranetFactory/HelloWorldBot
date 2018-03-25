@@ -1,0 +1,132 @@
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Bot Application1.dll.config
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Bot Application1.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Bot Application1.pdb
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Autofac.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Chronic.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Connector.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Newtonsoft.Json.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Net.Http.Formatting.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.WebHost.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Autofac.xml
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.xml
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Connector.xml
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\Newtonsoft.Json.xml
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Net.Http.Formatting.xml
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.xml
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.WebHost.xml
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\obj\Debug\Bot Application1.dll
+c:\users\michael\documents\visual studio 2015\Projects\HelloWorldBot\HelloWorldBot\obj\Debug\Bot Application1.pdb
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Bot Application1.dll.config
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Bot Application1.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Bot Application1.pdb
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Autofac.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Chronic.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Connector.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Newtonsoft.Json.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\System.Net.Http.Formatting.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.WebHost.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Autofac.xml
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.xml
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Connector.xml
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\Newtonsoft.Json.xml
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\System.Net.Http.Formatting.xml
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.xml
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.WebHost.xml
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\obj\Debug\Bot Application1.dll
+C:\TEMP\HelloWorldBot\HelloWorldBot\obj\Debug\Bot Application1.pdb
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Bot Application1.dll.config
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Bot Application1.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Bot Application1.pdb
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Autofac.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Chronic.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Connector.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Newtonsoft.Json.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\System.Net.Http.Formatting.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.WebHost.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Autofac.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Connector.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Newtonsoft.Json.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\System.Net.Http.Formatting.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.WebHost.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\obj\Debug\HelloWorldBot.csprojResolveAssemblyReference.cache
+C:\tmp\HelloWorldBot\HelloWorldBot\obj\Debug\HelloWorldBot.csproj.CoreCompileInputs.cache
+C:\tmp\HelloWorldBot\HelloWorldBot\obj\Debug\Bot Application1.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\obj\Debug\Bot Application1.pdb
+C:\tmp\HelloWorldBot\HelloWorldBot\obj\Debug\HelloWorldBot.csproj.CopyComplete
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.pdb
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\tmp\HelloWorldBot\HelloWorldBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
